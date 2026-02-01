@@ -100,3 +100,4 @@ InitTestScene*.unity*
 
 /build/**
 /Builds/**
+/v[0123456789]/**
