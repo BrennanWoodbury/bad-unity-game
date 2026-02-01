@@ -1,0 +1,21 @@
+{
+    "name": "Assembly-CSharp-Tests",
+    "references": [
+        "Assembly-CSharp"
+    ],
+    "testAssemblies": true,
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "noEngineReferences": false
+}
